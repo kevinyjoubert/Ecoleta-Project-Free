@@ -120,6 +120,10 @@ h1, h2, h3 , h4, h5, h6 {
     text-align: center;
 }
 
+
+/* RESPONSIVO PRA TELAS MENOR QUE 1120 */
+
+
 /* @media (max-width: 900px) {
     #page-home {
         height: 100vh;
